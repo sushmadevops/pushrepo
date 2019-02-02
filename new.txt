@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 hello this is first text.
 edit from branch
+hello hello
